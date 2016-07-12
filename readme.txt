@@ -10,4 +10,4 @@ probably be slower. The 3D solutions are outputed in the VTU format which is
 viewable with Paraview (www.paraview.org) or similar software.
 
 This program is distributed with version 1.3.8 of the NURBS toolbox. See the
-nurbs directory for detailed licensing and usage information. 
+nurbs directory for detailed licensing and usage information. gf
